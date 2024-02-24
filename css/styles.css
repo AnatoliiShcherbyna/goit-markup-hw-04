@@ -418,11 +418,13 @@ button {
 }
 .footer-container {
   margin-right: 120px;
-  margin-left: 156px;
 }
 .footer-wrapper {
+  width: 1158px;
   display: flex;
   align-items: baseline;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .media-text {
